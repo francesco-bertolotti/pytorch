@@ -20,7 +20,6 @@ export TORCH_CUDA_ARCH_LIST="8.0"
 export USE_CUDA=1
 export USE_DISTRIBUTED=1
 export USE_NCCL=1
-export USE_FBGEMM_GENAI=0
 export BUILD_TEST=0
 export CMAKE_BUILD_TYPE=Release
 
